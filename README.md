@@ -6,7 +6,7 @@
 
 The Cryptocurrency Tracker App is a robust, user-friendly application built with React.js. It allows users to monitor real-time cryptocurrency data, including prices, market caps, and more, using the CoinGecko API. The app offers a comprehensive view of various cryptocurrencies, making it an ideal tool for both casual users and serious investors.
 
-<a style="font-size:1.5rem;" href="https://crypto-project-coin-gecko-topaz.vercel.app">Live Website</a>
+<a style="font-size:1.5rem;" href="https://crypto-tracker-dun-two.vercel.app/">Live Website</a>
 
 ## Table of Contents
 - [Features](#features)
